@@ -6,7 +6,7 @@ this is a botstrap file
 
 i used monify to display my elements
 
-#  pricing Application
+#  Monify Application
 
 A pricing list application designed to generate an automatic sevice that can easily oversea their day to day activities and create revenue to people
 
@@ -19,4 +19,5 @@ You can add their pricing list to an existing list of auto-generated pricing.
 You can go ahead and create a new list entirely, which is done by adding your investment to the investing account.
 
 # copy 
+
 
